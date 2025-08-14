@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/bin/python3",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.cwd": "/home/kanchihyana_sai/my-project"    
+}
